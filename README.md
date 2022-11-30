@@ -1,7 +1,7 @@
 # Projeto-final-cs50
 Caetano Mágico - Um aplicativo que adivinha seu pensamento
 Este aplicativo tem como finalidade aplicar os conhecimentos adquiridos durante o curso cs50.
-O programa fonte feito em Python foi pensado de forma ficar o mais simples possivel para que a lógica seja entendida facilmente.
+O programa fonte feito em Python foi pensado de forma a ficar o mais simples possivel para que a lógica seja entendida facilmente.
 Foi testado dentro da IDE do cs50 e funcionou perfeitamente, atendendo aos propósitos para o qual foi idealizado.
 O aplitivo tem o seguinte funcionamento:
 1- Informa ao usuário que irá adivinhar o seu pensamento.
